@@ -1,0 +1,12 @@
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\bin\Debug\EntityFramework.dll
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\bin\Debug\EntityFramework.xml
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\obj\Debug\EntityLa.DA06A3F2.Up2Date
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\EntityLayer\obj\Debug\EntityLayer.pdb

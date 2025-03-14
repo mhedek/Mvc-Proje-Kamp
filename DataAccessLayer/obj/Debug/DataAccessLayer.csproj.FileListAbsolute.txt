@@ -1,0 +1,17 @@
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+D:\Projeler\Mvc5 ile Dinamik Bir Web Projesi CV\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
